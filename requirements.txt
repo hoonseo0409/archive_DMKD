@@ -1,0 +1,12 @@
+requests
+numpy
+pandas
+matplotlib
+tikzplotlib
+moviepy
+scikit-learn
+tensorflow
+mayavi
+keras
+nilearn
+xlrd

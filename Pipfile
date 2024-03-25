@@ -1,0 +1,30 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.org/simple"
+verify_ssl = true
+
+[dev-packages]
+
+[packages]
+numpy = "*"
+pandas = "*"
+matplotlib = "*"
+tikzplotlib = "*"
+moviepy = "*"
+scikit-learn = "*"
+tensorflow = "*"
+keras = "*"
+nilearn = "*"
+xlrd = "*"
+utilsforminds = {editable = true,path = "/Users/seohun/projects/python/utilsforminds"}
+mahotas = "*"
+plotly = "*"
+open3d = "*"
+rasterio = "*"
+geopandas = "*"
+pygeos = "*"
+openpyxl = "*"
+kaleido = "*"
+
+[requires]
+python_version = "3.8"
